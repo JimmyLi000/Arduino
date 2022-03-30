@@ -35,7 +35,9 @@ _______________
 
 
 
-<br></br>#藍芽
+#藍芽
+
+
 Bluetooth.aia
 bluetooth.ino
 
